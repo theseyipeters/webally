@@ -78,6 +78,7 @@
 body {
 	height: 100vh;
 	background-color: #000;
+	overscroll-behavior: none;
 }
 
 h1,
@@ -92,11 +93,14 @@ p,
 a,
 span,
 div,
-button,
 input,
 label,
 select,
 option,
 textarea {
+	font-family: "Aeonik", sans-serif;
+	letter-spacing: -0.5px;
+}
+button {
 	font-family: "Aeonik", sans-serif;
 }

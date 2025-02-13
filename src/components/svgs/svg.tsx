@@ -1,14 +1,16 @@
+import { Image } from "@mantine/core";
+
 export const RadialSvg = () => {
 	return (
 		<svg
-			width="1452"
-			height="932"
-			viewBox="0 0 1452 932"
+			width="2882"
+			height="1153"
+			viewBox="0 0 2882 1153"
 			fill="none"
 			xmlns="http://www.w3.org/2000/svg">
 			<g opacity="0.15">
 				<rect
-					x="-9.58833"
+					x="0.411667"
 					y="0.411667"
 					width="81.51"
 					height="81.51"
@@ -18,7 +20,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="-9.58833"
+					x="0.411667"
 					y="82.7449"
 					width="81.51"
 					height="81.51"
@@ -28,7 +30,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="-9.58833"
+					x="0.411667"
 					y="165.078"
 					width="81.51"
 					height="81.51"
@@ -38,7 +40,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="-9.58833"
+					x="0.411667"
 					y="247.412"
 					width="81.51"
 					height="81.51"
@@ -48,7 +50,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="-9.58833"
+					x="0.411667"
 					y="329.745"
 					width="81.51"
 					height="81.51"
@@ -58,7 +60,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="-9.58833"
+					x="0.411667"
 					y="412.078"
 					width="81.51"
 					height="81.51"
@@ -68,7 +70,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="-9.58833"
+					x="0.411667"
 					y="494.412"
 					width="81.51"
 					height="81.51"
@@ -78,7 +80,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="-9.58833"
+					x="0.411667"
 					y="576.745"
 					width="81.51"
 					height="81.51"
@@ -88,7 +90,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="-9.58833"
+					x="0.411667"
 					y="659.078"
 					width="81.51"
 					height="81.51"
@@ -98,7 +100,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="-9.58833"
+					x="0.411667"
 					y="741.412"
 					width="81.51"
 					height="81.51"
@@ -108,7 +110,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="-9.58833"
+					x="0.411667"
 					y="823.745"
 					width="81.51"
 					height="81.51"
@@ -118,7 +120,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="-9.58833"
+					x="0.411667"
 					y="906.078"
 					width="81.51"
 					height="81.51"
@@ -128,7 +130,27 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="72.7449"
+					x="0.411667"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="0.411667"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="82.7452"
 					y="0.411667"
 					width="81.51"
 					height="81.51"
@@ -138,7 +160,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="72.7449"
+					x="82.7452"
 					y="82.7449"
 					width="81.51"
 					height="81.51"
@@ -148,7 +170,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="72.7449"
+					x="82.7452"
 					y="165.078"
 					width="81.51"
 					height="81.51"
@@ -158,7 +180,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="72.7449"
+					x="82.7452"
 					y="247.412"
 					width="81.51"
 					height="81.51"
@@ -168,7 +190,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="72.7449"
+					x="82.7452"
 					y="329.745"
 					width="81.51"
 					height="81.51"
@@ -178,7 +200,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="72.7449"
+					x="82.7452"
 					y="412.078"
 					width="81.51"
 					height="81.51"
@@ -188,7 +210,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="72.7449"
+					x="82.7452"
 					y="494.412"
 					width="81.51"
 					height="81.51"
@@ -198,7 +220,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="72.7449"
+					x="82.7452"
 					y="576.745"
 					width="81.51"
 					height="81.51"
@@ -208,7 +230,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="72.7449"
+					x="82.7452"
 					y="659.078"
 					width="81.51"
 					height="81.51"
@@ -218,7 +240,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="72.7449"
+					x="82.7452"
 					y="741.412"
 					width="81.51"
 					height="81.51"
@@ -228,7 +250,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="72.7449"
+					x="82.7452"
 					y="823.745"
 					width="81.51"
 					height="81.51"
@@ -238,7 +260,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="72.7449"
+					x="82.7452"
 					y="906.078"
 					width="81.51"
 					height="81.51"
@@ -248,7 +270,27 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="155.078"
+					x="82.7452"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="82.7452"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="165.078"
 					y="0.411667"
 					width="81.51"
 					height="81.51"
@@ -258,7 +300,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="155.078"
+					x="165.078"
 					y="82.7449"
 					width="81.51"
 					height="81.51"
@@ -268,7 +310,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="155.078"
+					x="165.078"
 					y="165.078"
 					width="81.51"
 					height="81.51"
@@ -278,7 +320,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="155.078"
+					x="165.078"
 					y="247.412"
 					width="81.51"
 					height="81.51"
@@ -288,7 +330,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="155.078"
+					x="165.078"
 					y="329.745"
 					width="81.51"
 					height="81.51"
@@ -298,7 +340,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="155.078"
+					x="165.078"
 					y="412.078"
 					width="81.51"
 					height="81.51"
@@ -308,7 +350,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="155.078"
+					x="165.078"
 					y="494.412"
 					width="81.51"
 					height="81.51"
@@ -318,7 +360,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="154.667"
+					x="164.667"
 					y="576.333"
 					width="82.3333"
 					height="82.3333"
@@ -326,7 +368,7 @@ export const RadialSvg = () => {
 					fill="#3A4962"
 				/>
 				<rect
-					x="155.078"
+					x="165.078"
 					y="576.745"
 					width="81.51"
 					height="81.51"
@@ -336,7 +378,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="155.078"
+					x="165.078"
 					y="659.078"
 					width="81.51"
 					height="81.51"
@@ -346,7 +388,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="155.078"
+					x="165.078"
 					y="741.412"
 					width="81.51"
 					height="81.51"
@@ -356,7 +398,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="155.078"
+					x="165.078"
 					y="823.745"
 					width="81.51"
 					height="81.51"
@@ -366,7 +408,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="155.078"
+					x="165.078"
 					y="906.078"
 					width="81.51"
 					height="81.51"
@@ -376,7 +418,27 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="237.412"
+					x="165.078"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="165.078"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="247.412"
 					y="0.411667"
 					width="81.51"
 					height="81.51"
@@ -386,7 +448,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="237.412"
+					x="247.412"
 					y="82.7449"
 					width="81.51"
 					height="81.51"
@@ -396,7 +458,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="237.412"
+					x="247.412"
 					y="165.078"
 					width="81.51"
 					height="81.51"
@@ -406,7 +468,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="237.412"
+					x="247.412"
 					y="247.412"
 					width="81.51"
 					height="81.51"
@@ -416,7 +478,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="237.412"
+					x="247.412"
 					y="329.745"
 					width="81.51"
 					height="81.51"
@@ -426,7 +488,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="237.412"
+					x="247.412"
 					y="412.078"
 					width="81.51"
 					height="81.51"
@@ -436,7 +498,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="237.412"
+					x="247.412"
 					y="494.412"
 					width="81.51"
 					height="81.51"
@@ -446,7 +508,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="237.412"
+					x="247.412"
 					y="576.745"
 					width="81.51"
 					height="81.51"
@@ -456,7 +518,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="237.412"
+					x="247.412"
 					y="659.078"
 					width="81.51"
 					height="81.51"
@@ -466,7 +528,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="237.412"
+					x="247.412"
 					y="741.412"
 					width="81.51"
 					height="81.51"
@@ -476,7 +538,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="237.412"
+					x="247.412"
 					y="823.745"
 					width="81.51"
 					height="81.51"
@@ -486,7 +548,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="237.412"
+					x="247.412"
 					y="906.078"
 					width="81.51"
 					height="81.51"
@@ -496,7 +558,27 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="319.745"
+					x="247.412"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="247.412"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="329.745"
 					y="0.411667"
 					width="81.51"
 					height="81.51"
@@ -506,7 +588,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="319.745"
+					x="329.745"
 					y="82.7449"
 					width="81.51"
 					height="81.51"
@@ -516,7 +598,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="319.333"
+					x="329.333"
 					y="164.667"
 					width="82.3333"
 					height="82.3333"
@@ -524,7 +606,7 @@ export const RadialSvg = () => {
 					fill="#39475F"
 				/>
 				<rect
-					x="319.745"
+					x="329.745"
 					y="165.078"
 					width="81.51"
 					height="81.51"
@@ -534,7 +616,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="319.745"
+					x="329.745"
 					y="247.412"
 					width="81.51"
 					height="81.51"
@@ -544,7 +626,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="319.745"
+					x="329.745"
 					y="329.745"
 					width="81.51"
 					height="81.51"
@@ -554,7 +636,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="319.745"
+					x="329.745"
 					y="412.078"
 					width="81.51"
 					height="81.51"
@@ -564,7 +646,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="319.745"
+					x="329.745"
 					y="494.412"
 					width="81.51"
 					height="81.51"
@@ -574,7 +656,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="319.745"
+					x="329.745"
 					y="576.745"
 					width="81.51"
 					height="81.51"
@@ -584,7 +666,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="319.745"
+					x="329.745"
 					y="659.078"
 					width="81.51"
 					height="81.51"
@@ -594,7 +676,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="319.745"
+					x="329.745"
 					y="741.412"
 					width="81.51"
 					height="81.51"
@@ -604,7 +686,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="319.745"
+					x="329.745"
 					y="823.745"
 					width="81.51"
 					height="81.51"
@@ -614,7 +696,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="319.745"
+					x="329.745"
 					y="906.078"
 					width="81.51"
 					height="81.51"
@@ -624,7 +706,27 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="402.078"
+					x="329.745"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="329.745"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="412.078"
 					y="0.411667"
 					width="81.51"
 					height="81.51"
@@ -634,7 +736,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="402.078"
+					x="412.078"
 					y="82.7449"
 					width="81.51"
 					height="81.51"
@@ -644,7 +746,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="402.078"
+					x="412.078"
 					y="165.078"
 					width="81.51"
 					height="81.51"
@@ -654,7 +756,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="402.078"
+					x="412.078"
 					y="247.412"
 					width="81.51"
 					height="81.51"
@@ -664,7 +766,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="402.078"
+					x="412.078"
 					y="329.745"
 					width="81.51"
 					height="81.51"
@@ -674,7 +776,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="402.078"
+					x="412.078"
 					y="412.078"
 					width="81.51"
 					height="81.51"
@@ -684,7 +786,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="402.078"
+					x="412.078"
 					y="494.412"
 					width="81.51"
 					height="81.51"
@@ -694,7 +796,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="402.078"
+					x="412.078"
 					y="576.745"
 					width="81.51"
 					height="81.51"
@@ -704,7 +806,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="402.078"
+					x="412.078"
 					y="659.078"
 					width="81.51"
 					height="81.51"
@@ -714,7 +816,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="402.078"
+					x="412.078"
 					y="741.412"
 					width="81.51"
 					height="81.51"
@@ -724,7 +826,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="402.078"
+					x="412.078"
 					y="823.745"
 					width="81.51"
 					height="81.51"
@@ -734,7 +836,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="402.078"
+					x="412.078"
 					y="906.078"
 					width="81.51"
 					height="81.51"
@@ -744,7 +846,27 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="484.412"
+					x="412.078"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="412.078"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="494.412"
 					y="0.411667"
 					width="81.51"
 					height="81.51"
@@ -754,7 +876,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="484.412"
+					x="494.412"
 					y="82.7449"
 					width="81.51"
 					height="81.51"
@@ -764,7 +886,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="484.412"
+					x="494.412"
 					y="165.078"
 					width="81.51"
 					height="81.51"
@@ -774,7 +896,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="484.412"
+					x="494.412"
 					y="247.412"
 					width="81.51"
 					height="81.51"
@@ -784,7 +906,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="484.412"
+					x="494.412"
 					y="329.745"
 					width="81.51"
 					height="81.51"
@@ -794,7 +916,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="484.412"
+					x="494.412"
 					y="412.078"
 					width="81.51"
 					height="81.51"
@@ -804,7 +926,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="484.412"
+					x="494.412"
 					y="494.412"
 					width="81.51"
 					height="81.51"
@@ -814,7 +936,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="484.412"
+					x="494.412"
 					y="576.745"
 					width="81.51"
 					height="81.51"
@@ -824,7 +946,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="484.412"
+					x="494.412"
 					y="659.078"
 					width="81.51"
 					height="81.51"
@@ -834,7 +956,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="484.412"
+					x="494.412"
 					y="741.412"
 					width="81.51"
 					height="81.51"
@@ -844,7 +966,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="484.412"
+					x="494.412"
 					y="823.745"
 					width="81.51"
 					height="81.51"
@@ -854,7 +976,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="484.412"
+					x="494.412"
 					y="906.078"
 					width="81.51"
 					height="81.51"
@@ -864,7 +986,27 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="566.745"
+					x="494.412"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="494.412"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="576.745"
 					y="0.411667"
 					width="81.51"
 					height="81.51"
@@ -874,7 +1016,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="566.745"
+					x="576.745"
 					y="82.7449"
 					width="81.51"
 					height="81.51"
@@ -884,7 +1026,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="566.745"
+					x="576.745"
 					y="165.078"
 					width="81.51"
 					height="81.51"
@@ -894,7 +1036,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="566.745"
+					x="576.745"
 					y="247.412"
 					width="81.51"
 					height="81.51"
@@ -904,7 +1046,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="566.745"
+					x="576.745"
 					y="329.745"
 					width="81.51"
 					height="81.51"
@@ -914,7 +1056,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="566.745"
+					x="576.745"
 					y="412.078"
 					width="81.51"
 					height="81.51"
@@ -924,7 +1066,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="566.745"
+					x="576.745"
 					y="494.412"
 					width="81.51"
 					height="81.51"
@@ -934,7 +1076,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="566.745"
+					x="576.745"
 					y="576.745"
 					width="81.51"
 					height="81.51"
@@ -944,7 +1086,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="566.745"
+					x="576.745"
 					y="659.078"
 					width="81.51"
 					height="81.51"
@@ -954,7 +1096,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="566.745"
+					x="576.745"
 					y="741.412"
 					width="81.51"
 					height="81.51"
@@ -964,7 +1106,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="566.745"
+					x="576.745"
 					y="823.745"
 					width="81.51"
 					height="81.51"
@@ -974,7 +1116,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="566.745"
+					x="576.745"
 					y="906.078"
 					width="81.51"
 					height="81.51"
@@ -984,7 +1126,27 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="649.078"
+					x="576.745"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="576.745"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="659.078"
 					y="0.411667"
 					width="81.51"
 					height="81.51"
@@ -994,7 +1156,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="649.078"
+					x="659.078"
 					y="82.7449"
 					width="81.51"
 					height="81.51"
@@ -1004,7 +1166,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="649.078"
+					x="659.078"
 					y="165.078"
 					width="81.51"
 					height="81.51"
@@ -1014,7 +1176,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="649.078"
+					x="659.078"
 					y="247.412"
 					width="81.51"
 					height="81.51"
@@ -1024,7 +1186,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="649.078"
+					x="659.078"
 					y="329.745"
 					width="81.51"
 					height="81.51"
@@ -1034,7 +1196,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="649.078"
+					x="659.078"
 					y="412.078"
 					width="81.51"
 					height="81.51"
@@ -1044,7 +1206,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="649.078"
+					x="659.078"
 					y="494.412"
 					width="81.51"
 					height="81.51"
@@ -1054,7 +1216,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="649.078"
+					x="659.078"
 					y="576.745"
 					width="81.51"
 					height="81.51"
@@ -1064,7 +1226,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="649.078"
+					x="659.078"
 					y="659.078"
 					width="81.51"
 					height="81.51"
@@ -1074,7 +1236,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="649.078"
+					x="659.078"
 					y="741.412"
 					width="81.51"
 					height="81.51"
@@ -1084,7 +1246,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="649.078"
+					x="659.078"
 					y="823.745"
 					width="81.51"
 					height="81.51"
@@ -1094,7 +1256,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="649.078"
+					x="659.078"
 					y="906.078"
 					width="81.51"
 					height="81.51"
@@ -1104,7 +1266,27 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="731.412"
+					x="659.078"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="659.078"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="741.412"
 					y="0.411667"
 					width="81.51"
 					height="81.51"
@@ -1114,7 +1296,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="731.412"
+					x="741.412"
 					y="82.7449"
 					width="81.51"
 					height="81.51"
@@ -1124,7 +1306,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="731.412"
+					x="741.412"
 					y="165.078"
 					width="81.51"
 					height="81.51"
@@ -1134,7 +1316,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="731.412"
+					x="741.412"
 					y="247.412"
 					width="81.51"
 					height="81.51"
@@ -1144,7 +1326,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="731.412"
+					x="741.412"
 					y="329.745"
 					width="81.51"
 					height="81.51"
@@ -1154,7 +1336,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="731.412"
+					x="741.412"
 					y="412.078"
 					width="81.51"
 					height="81.51"
@@ -1164,7 +1346,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="731.412"
+					x="741.412"
 					y="494.412"
 					width="81.51"
 					height="81.51"
@@ -1174,7 +1356,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="731.412"
+					x="741.412"
 					y="576.745"
 					width="81.51"
 					height="81.51"
@@ -1184,7 +1366,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="731.412"
+					x="741.412"
 					y="659.078"
 					width="81.51"
 					height="81.51"
@@ -1194,7 +1376,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="731.412"
+					x="741.412"
 					y="741.412"
 					width="81.51"
 					height="81.51"
@@ -1204,7 +1386,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="731.412"
+					x="741.412"
 					y="823.745"
 					width="81.51"
 					height="81.51"
@@ -1214,7 +1396,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="731.412"
+					x="741.412"
 					y="906.078"
 					width="81.51"
 					height="81.51"
@@ -1224,7 +1406,27 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="813.745"
+					x="741.412"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="741.412"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="823.745"
 					y="0.411667"
 					width="81.51"
 					height="81.51"
@@ -1234,7 +1436,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="813.745"
+					x="823.745"
 					y="82.7449"
 					width="81.51"
 					height="81.51"
@@ -1244,7 +1446,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="813.745"
+					x="823.745"
 					y="165.078"
 					width="81.51"
 					height="81.51"
@@ -1254,7 +1456,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="813.745"
+					x="823.745"
 					y="247.412"
 					width="81.51"
 					height="81.51"
@@ -1264,7 +1466,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="813.745"
+					x="823.745"
 					y="329.745"
 					width="81.51"
 					height="81.51"
@@ -1274,7 +1476,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="813.745"
+					x="823.745"
 					y="412.078"
 					width="81.51"
 					height="81.51"
@@ -1284,7 +1486,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="813.745"
+					x="823.745"
 					y="494.412"
 					width="81.51"
 					height="81.51"
@@ -1294,7 +1496,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="813.745"
+					x="823.745"
 					y="576.745"
 					width="81.51"
 					height="81.51"
@@ -1304,7 +1506,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="813.745"
+					x="823.745"
 					y="659.078"
 					width="81.51"
 					height="81.51"
@@ -1314,7 +1516,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="813.745"
+					x="823.745"
 					y="741.412"
 					width="81.51"
 					height="81.51"
@@ -1324,7 +1526,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="813.745"
+					x="823.745"
 					y="823.745"
 					width="81.51"
 					height="81.51"
@@ -1334,7 +1536,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="813.745"
+					x="823.745"
 					y="906.078"
 					width="81.51"
 					height="81.51"
@@ -1344,7 +1546,27 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="896.078"
+					x="823.745"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="823.745"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="906.078"
 					y="0.411667"
 					width="81.51"
 					height="81.51"
@@ -1354,7 +1576,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="896.078"
+					x="906.078"
 					y="82.7449"
 					width="81.51"
 					height="81.51"
@@ -1364,7 +1586,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="896.078"
+					x="906.078"
 					y="165.078"
 					width="81.51"
 					height="81.51"
@@ -1374,7 +1596,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="896.078"
+					x="906.078"
 					y="247.412"
 					width="81.51"
 					height="81.51"
@@ -1384,7 +1606,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="896.078"
+					x="906.078"
 					y="329.745"
 					width="81.51"
 					height="81.51"
@@ -1394,7 +1616,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="896.078"
+					x="906.078"
 					y="412.078"
 					width="81.51"
 					height="81.51"
@@ -1404,7 +1626,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="896.078"
+					x="906.078"
 					y="494.412"
 					width="81.51"
 					height="81.51"
@@ -1414,7 +1636,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="896.078"
+					x="906.078"
 					y="576.745"
 					width="81.51"
 					height="81.51"
@@ -1424,7 +1646,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="896.078"
+					x="906.078"
 					y="659.078"
 					width="81.51"
 					height="81.51"
@@ -1434,7 +1656,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="896.078"
+					x="906.078"
 					y="741.412"
 					width="81.51"
 					height="81.51"
@@ -1444,7 +1666,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="896.078"
+					x="906.078"
 					y="823.745"
 					width="81.51"
 					height="81.51"
@@ -1454,7 +1676,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="896.078"
+					x="906.078"
 					y="906.078"
 					width="81.51"
 					height="81.51"
@@ -1464,7 +1686,27 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="978.412"
+					x="906.078"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="906.078"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="988.412"
 					y="0.411667"
 					width="81.51"
 					height="81.51"
@@ -1474,7 +1716,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="978.412"
+					x="988.412"
 					y="82.7449"
 					width="81.51"
 					height="81.51"
@@ -1484,7 +1726,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="978.412"
+					x="988.412"
 					y="165.078"
 					width="81.51"
 					height="81.51"
@@ -1494,7 +1736,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="978.412"
+					x="988.412"
 					y="247.412"
 					width="81.51"
 					height="81.51"
@@ -1504,7 +1746,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="978.412"
+					x="988.412"
 					y="329.745"
 					width="81.51"
 					height="81.51"
@@ -1514,7 +1756,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="978.412"
+					x="988.412"
 					y="412.078"
 					width="81.51"
 					height="81.51"
@@ -1524,7 +1766,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="978.412"
+					x="988.412"
 					y="494.412"
 					width="81.51"
 					height="81.51"
@@ -1534,7 +1776,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="978.412"
+					x="988.412"
 					y="576.745"
 					width="81.51"
 					height="81.51"
@@ -1544,7 +1786,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="978.412"
+					x="988.412"
 					y="659.078"
 					width="81.51"
 					height="81.51"
@@ -1554,7 +1796,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="978.412"
+					x="988.412"
 					y="741.412"
 					width="81.51"
 					height="81.51"
@@ -1564,7 +1806,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="978.412"
+					x="988.412"
 					y="823.745"
 					width="81.51"
 					height="81.51"
@@ -1574,7 +1816,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="978.412"
+					x="988.412"
 					y="906.078"
 					width="81.51"
 					height="81.51"
@@ -1584,7 +1826,27 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1060.74"
+					x="988.412"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="988.412"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1070.74"
 					y="0.411667"
 					width="81.51"
 					height="81.51"
@@ -1594,7 +1856,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1060.74"
+					x="1070.74"
 					y="82.7449"
 					width="81.51"
 					height="81.51"
@@ -1604,7 +1866,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1060.74"
+					x="1070.74"
 					y="165.078"
 					width="81.51"
 					height="81.51"
@@ -1614,7 +1876,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1060.74"
+					x="1070.74"
 					y="247.412"
 					width="81.51"
 					height="81.51"
@@ -1624,7 +1886,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1060.74"
+					x="1070.74"
 					y="329.745"
 					width="81.51"
 					height="81.51"
@@ -1634,7 +1896,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1060.74"
+					x="1070.74"
 					y="412.078"
 					width="81.51"
 					height="81.51"
@@ -1644,7 +1906,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1060.74"
+					x="1070.74"
 					y="494.412"
 					width="81.51"
 					height="81.51"
@@ -1654,7 +1916,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1060.74"
+					x="1070.74"
 					y="576.745"
 					width="81.51"
 					height="81.51"
@@ -1664,7 +1926,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1060.74"
+					x="1070.74"
 					y="659.078"
 					width="81.51"
 					height="81.51"
@@ -1674,7 +1936,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1060.74"
+					x="1070.74"
 					y="741.412"
 					width="81.51"
 					height="81.51"
@@ -1684,7 +1946,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1060.74"
+					x="1070.74"
 					y="823.745"
 					width="81.51"
 					height="81.51"
@@ -1694,7 +1956,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1060.74"
+					x="1070.74"
 					y="906.078"
 					width="81.51"
 					height="81.51"
@@ -1704,7 +1966,27 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1143.08"
+					x="1070.74"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1070.74"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1153.08"
 					y="0.411667"
 					width="81.51"
 					height="81.51"
@@ -1714,7 +1996,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1143.08"
+					x="1153.08"
 					y="82.7449"
 					width="81.51"
 					height="81.51"
@@ -1724,7 +2006,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1142.67"
+					x="1152.67"
 					y="164.667"
 					width="82.3333"
 					height="82.3333"
@@ -1732,7 +2014,7 @@ export const RadialSvg = () => {
 					fill="#37455D"
 				/>
 				<rect
-					x="1143.08"
+					x="1153.08"
 					y="165.078"
 					width="81.51"
 					height="81.51"
@@ -1742,7 +2024,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1143.08"
+					x="1153.08"
 					y="247.412"
 					width="81.51"
 					height="81.51"
@@ -1752,7 +2034,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1143.08"
+					x="1153.08"
 					y="329.745"
 					width="81.51"
 					height="81.51"
@@ -1762,7 +2044,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1143.08"
+					x="1153.08"
 					y="412.078"
 					width="81.51"
 					height="81.51"
@@ -1772,7 +2054,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1143.08"
+					x="1153.08"
 					y="494.412"
 					width="81.51"
 					height="81.51"
@@ -1782,7 +2064,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1143.08"
+					x="1153.08"
 					y="576.745"
 					width="81.51"
 					height="81.51"
@@ -1792,7 +2074,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1143.08"
+					x="1153.08"
 					y="659.078"
 					width="81.51"
 					height="81.51"
@@ -1802,7 +2084,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1143.08"
+					x="1153.08"
 					y="741.412"
 					width="81.51"
 					height="81.51"
@@ -1812,7 +2094,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1143.08"
+					x="1153.08"
 					y="823.745"
 					width="81.51"
 					height="81.51"
@@ -1822,7 +2104,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1143.08"
+					x="1153.08"
 					y="906.078"
 					width="81.51"
 					height="81.51"
@@ -1832,7 +2114,27 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1225.41"
+					x="1153.08"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1153.08"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1235.41"
 					y="0.411667"
 					width="81.51"
 					height="81.51"
@@ -1842,7 +2144,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1225.41"
+					x="1235.41"
 					y="82.7449"
 					width="81.51"
 					height="81.51"
@@ -1852,7 +2154,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1225.41"
+					x="1235.41"
 					y="165.078"
 					width="81.51"
 					height="81.51"
@@ -1862,7 +2164,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1225.41"
+					x="1235.41"
 					y="247.412"
 					width="81.51"
 					height="81.51"
@@ -1872,7 +2174,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1225.41"
+					x="1235.41"
 					y="329.745"
 					width="81.51"
 					height="81.51"
@@ -1882,7 +2184,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1225.41"
+					x="1235.41"
 					y="412.078"
 					width="81.51"
 					height="81.51"
@@ -1892,7 +2194,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1225.41"
+					x="1235.41"
 					y="494.412"
 					width="81.51"
 					height="81.51"
@@ -1902,7 +2204,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1225.41"
+					x="1235.41"
 					y="576.745"
 					width="81.51"
 					height="81.51"
@@ -1912,7 +2214,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1225.41"
+					x="1235.41"
 					y="659.078"
 					width="81.51"
 					height="81.51"
@@ -1922,7 +2224,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1225.41"
+					x="1235.41"
 					y="741.412"
 					width="81.51"
 					height="81.51"
@@ -1932,7 +2234,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1225.41"
+					x="1235.41"
 					y="823.745"
 					width="81.51"
 					height="81.51"
@@ -1942,7 +2244,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1225.41"
+					x="1235.41"
 					y="906.078"
 					width="81.51"
 					height="81.51"
@@ -1952,7 +2254,27 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1307.75"
+					x="1235.41"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1235.41"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1317.75"
 					y="0.411667"
 					width="81.51"
 					height="81.51"
@@ -1962,7 +2284,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1307.75"
+					x="1317.75"
 					y="82.7449"
 					width="81.51"
 					height="81.51"
@@ -1972,7 +2294,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1307.75"
+					x="1317.75"
 					y="165.078"
 					width="81.51"
 					height="81.51"
@@ -1982,7 +2304,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1307.75"
+					x="1317.75"
 					y="247.412"
 					width="81.51"
 					height="81.51"
@@ -1992,7 +2314,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1307.75"
+					x="1317.75"
 					y="329.745"
 					width="81.51"
 					height="81.51"
@@ -2002,7 +2324,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1307.75"
+					x="1317.75"
 					y="412.078"
 					width="81.51"
 					height="81.51"
@@ -2012,7 +2334,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1307.75"
+					x="1317.75"
 					y="494.412"
 					width="81.51"
 					height="81.51"
@@ -2022,7 +2344,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1307.75"
+					x="1317.75"
 					y="576.745"
 					width="81.51"
 					height="81.51"
@@ -2032,7 +2354,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1307.75"
+					x="1317.75"
 					y="659.078"
 					width="81.51"
 					height="81.51"
@@ -2042,7 +2364,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1307.75"
+					x="1317.75"
 					y="741.412"
 					width="81.51"
 					height="81.51"
@@ -2052,7 +2374,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1307.75"
+					x="1317.75"
 					y="823.745"
 					width="81.51"
 					height="81.51"
@@ -2062,7 +2384,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1307.75"
+					x="1317.75"
 					y="906.078"
 					width="81.51"
 					height="81.51"
@@ -2072,7 +2394,27 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1390.08"
+					x="1317.75"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1317.75"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1400.08"
 					y="0.411667"
 					width="81.51"
 					height="81.51"
@@ -2082,7 +2424,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1390.08"
+					x="1400.08"
 					y="82.7449"
 					width="81.51"
 					height="81.51"
@@ -2092,7 +2434,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1390.08"
+					x="1400.08"
 					y="165.078"
 					width="81.51"
 					height="81.51"
@@ -2102,7 +2444,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1390.08"
+					x="1400.08"
 					y="247.412"
 					width="81.51"
 					height="81.51"
@@ -2112,7 +2454,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1390.08"
+					x="1400.08"
 					y="329.745"
 					width="81.51"
 					height="81.51"
@@ -2122,7 +2464,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1390.08"
+					x="1400.08"
 					y="412.078"
 					width="81.51"
 					height="81.51"
@@ -2132,7 +2474,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1390.08"
+					x="1400.08"
 					y="494.412"
 					width="81.51"
 					height="81.51"
@@ -2142,7 +2484,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1390.08"
+					x="1400.08"
 					y="576.745"
 					width="81.51"
 					height="81.51"
@@ -2152,7 +2494,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1390.08"
+					x="1400.08"
 					y="659.078"
 					width="81.51"
 					height="81.51"
@@ -2162,7 +2504,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1390.08"
+					x="1400.08"
 					y="741.412"
 					width="81.51"
 					height="81.51"
@@ -2172,7 +2514,7 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1390.08"
+					x="1400.08"
 					y="823.745"
 					width="81.51"
 					height="81.51"
@@ -2182,8 +2524,2408 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 				<rect
-					x="1390.08"
+					x="1400.08"
 					y="906.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1400.08"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1400.08"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1482.41"
+					y="0.411667"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1482.41"
+					y="82.7449"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1482.41"
+					y="165.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1482.41"
+					y="247.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1482.41"
+					y="329.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1482.41"
+					y="412.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1482.41"
+					y="494.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1482.41"
+					y="576.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1482.41"
+					y="659.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1482.41"
+					y="741.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1482.41"
+					y="823.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1482.41"
+					y="906.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1482.41"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1482.41"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1564.75"
+					y="0.411667"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1564.75"
+					y="82.7449"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1564.75"
+					y="165.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1564.75"
+					y="247.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1564.75"
+					y="329.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1564.75"
+					y="412.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1564.75"
+					y="494.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1564.75"
+					y="576.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1564.75"
+					y="659.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1564.75"
+					y="741.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1564.75"
+					y="823.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1564.75"
+					y="906.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1564.75"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1564.75"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1647.08"
+					y="0.411667"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1647.08"
+					y="82.7449"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1647.08"
+					y="165.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1647.08"
+					y="247.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1647.08"
+					y="329.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1647.08"
+					y="412.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1647.08"
+					y="494.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1647.08"
+					y="576.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1647.08"
+					y="659.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1647.08"
+					y="741.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1647.08"
+					y="823.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1647.08"
+					y="906.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1647.08"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1647.08"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1729.41"
+					y="0.411667"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1729.41"
+					y="82.7449"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1729.41"
+					y="165.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1729.41"
+					y="247.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1729.41"
+					y="329.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1729.41"
+					y="412.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1729.41"
+					y="494.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1729.41"
+					y="576.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1729.41"
+					y="659.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1729.41"
+					y="741.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1729.41"
+					y="823.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1729.41"
+					y="906.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1729.41"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1729.41"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1811.75"
+					y="0.411667"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1811.75"
+					y="82.7449"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1811.75"
+					y="165.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1811.75"
+					y="247.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1811.75"
+					y="329.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1811.75"
+					y="412.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1811.75"
+					y="494.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1811.75"
+					y="576.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1811.75"
+					y="659.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1811.75"
+					y="741.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1811.75"
+					y="823.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1811.75"
+					y="906.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1811.75"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1811.75"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1894.08"
+					y="0.411667"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1894.08"
+					y="82.7449"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1894.08"
+					y="165.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1894.08"
+					y="247.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1894.08"
+					y="329.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1894.08"
+					y="412.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1894.08"
+					y="494.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1894.08"
+					y="576.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1894.08"
+					y="659.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1894.08"
+					y="741.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1894.08"
+					y="823.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1894.08"
+					y="906.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1894.08"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1894.08"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1976.41"
+					y="0.411667"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1976.41"
+					y="82.7449"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1976.41"
+					y="165.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1976.41"
+					y="247.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1976.41"
+					y="329.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1976.41"
+					y="412.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1976.41"
+					y="494.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1976.41"
+					y="576.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1976.41"
+					y="659.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1976.41"
+					y="741.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1976.41"
+					y="823.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1976.41"
+					y="906.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1976.41"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="1976.41"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2058.75"
+					y="0.411667"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2058.75"
+					y="82.7449"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2058.75"
+					y="165.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2058.75"
+					y="247.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2058.75"
+					y="329.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2058.75"
+					y="412.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2058.75"
+					y="494.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2058.75"
+					y="576.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2058.75"
+					y="659.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2058.75"
+					y="741.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2058.75"
+					y="823.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2058.75"
+					y="906.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2058.75"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2058.75"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2141.08"
+					y="0.411667"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2141.08"
+					y="82.7449"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2141.08"
+					y="165.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2141.08"
+					y="247.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2141.08"
+					y="329.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2141.08"
+					y="412.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2141.08"
+					y="494.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2141.08"
+					y="576.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2141.08"
+					y="659.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2141.08"
+					y="741.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2141.08"
+					y="823.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2141.08"
+					y="906.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2141.08"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2141.08"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2223.41"
+					y="0.411667"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2223.41"
+					y="82.7449"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2223.41"
+					y="165.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2223.41"
+					y="247.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2223.41"
+					y="329.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2223.41"
+					y="412.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2223.41"
+					y="494.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2223.41"
+					y="576.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2223.41"
+					y="659.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2223.41"
+					y="741.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2223.41"
+					y="823.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2223.41"
+					y="906.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2223.41"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2223.41"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2305.75"
+					y="0.411667"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2305.75"
+					y="82.7449"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2305.75"
+					y="165.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2305.75"
+					y="247.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2305.75"
+					y="329.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2305.75"
+					y="412.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2305.75"
+					y="494.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2305.75"
+					y="576.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2305.75"
+					y="659.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2305.75"
+					y="741.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2305.75"
+					y="823.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2305.75"
+					y="906.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2305.75"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2305.75"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2388.08"
+					y="0.411667"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2388.08"
+					y="82.7449"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2388.08"
+					y="165.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2388.08"
+					y="247.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2388.08"
+					y="329.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2388.08"
+					y="412.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2388.08"
+					y="494.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2388.08"
+					y="576.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2388.08"
+					y="659.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2388.08"
+					y="741.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2388.08"
+					y="823.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2388.08"
+					y="906.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2388.08"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2388.08"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2470.41"
+					y="0.411667"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2470.41"
+					y="82.7449"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2470.41"
+					y="165.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2470.41"
+					y="247.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2470.41"
+					y="329.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2470.41"
+					y="412.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2470.41"
+					y="494.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2470.41"
+					y="576.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2470.41"
+					y="659.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2470.41"
+					y="741.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2470.41"
+					y="823.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2470.41"
+					y="906.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2470.41"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2470.41"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2552.74"
+					y="0.411667"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2552.74"
+					y="82.7449"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2552.74"
+					y="165.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2552.74"
+					y="247.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2552.74"
+					y="329.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2552.74"
+					y="412.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2552.74"
+					y="494.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2552.74"
+					y="576.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2552.74"
+					y="659.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2552.74"
+					y="741.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2552.74"
+					y="823.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2552.74"
+					y="906.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2552.74"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2552.74"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2635.08"
+					y="0.411667"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2635.08"
+					y="82.7449"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2635.08"
+					y="165.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2635.08"
+					y="247.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2635.08"
+					y="329.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2635.08"
+					y="412.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2635.08"
+					y="494.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2635.08"
+					y="576.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2635.08"
+					y="659.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2635.08"
+					y="741.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2635.08"
+					y="823.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2635.08"
+					y="906.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2635.08"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2635.08"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2717.41"
+					y="0.411667"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2717.41"
+					y="82.7449"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2717.41"
+					y="165.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2717.41"
+					y="247.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2717.41"
+					y="329.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2717.41"
+					y="412.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2717.41"
+					y="494.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2717.41"
+					y="576.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2717.41"
+					y="659.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2717.41"
+					y="741.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2717.41"
+					y="823.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2717.41"
+					y="906.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2717.41"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2717.41"
+					y="1070.74"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2799.74"
+					y="0.411667"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2799.74"
+					y="82.7449"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2799.74"
+					y="165.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2799.74"
+					y="247.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2799.74"
+					y="329.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2799.74"
+					y="412.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2799.74"
+					y="494.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2799.74"
+					y="576.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2799.74"
+					y="659.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2799.74"
+					y="741.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2799.74"
+					y="823.745"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2799.74"
+					y="906.078"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2799.74"
+					y="988.412"
+					width="81.51"
+					height="81.51"
+					rx="26.5883"
+					stroke="white"
+					stroke-opacity="0.4"
+					stroke-width="0.823333"
+				/>
+				<rect
+					x="2799.74"
+					y="1070.74"
 					width="81.51"
 					height="81.51"
 					rx="26.5883"
@@ -2192,6 +4934,103 @@ export const RadialSvg = () => {
 					stroke-width="0.823333"
 				/>
 			</g>
+		</svg>
+	);
+};
+
+export const CrafterDashboard = () => {
+	return (
+		<Image
+			alt=""
+			src={"/images/crafterdashboard.svg"}
+		/>
+	);
+};
+
+export const WebAllyLogo = () => {
+	return (
+		<svg
+			width="100%"
+			height="100%"
+			viewBox="0 0 92 19"
+			fill="none"
+			xmlns="http://www.w3.org/2000/svg">
+			<path
+				fill-rule="evenodd"
+				clip-rule="evenodd"
+				d="M0 18.9997C0.0101343 18.9998 0.0202775 18.9998 0.0304294 18.9998C2.26221 18.9998 4.07143 17.1906 4.07143 14.9588V4.041C4.07143 1.80922 2.26221 0 0.0304294 0C0.0202775 0 0.0101343 3.74353e-05 0 0.000112175V18.9997Z"
+				fill="currentColor"
+			/>
+			<path
+				d="M14.8604 2.98568C14.8604 1.33673 16.1971 0 17.846 0H18.9996V10.5022C18.9996 12.1512 17.6629 13.4879 16.0139 13.4879H14.8604V2.98568Z"
+				fill="currentColor"
+			/>
+			<path
+				d="M9.90698 14.6039C9.90698 16.8525 11.7298 18.6753 13.9784 18.6753V18.6753V12.1768C13.9784 9.92826 12.1555 8.10544 9.90698 8.10544V8.10544V14.6039Z"
+				fill="currentColor"
+			/>
+			<path
+				fill-rule="evenodd"
+				clip-rule="evenodd"
+				d="M9.0249 18.9997C9.01477 18.9998 9.00462 18.9998 8.99447 18.9998C6.76269 18.9998 4.95347 17.1906 4.95347 14.9588V4.041C4.95347 1.80922 6.76269 0 8.99447 0C9.00462 0 9.01477 3.74353e-05 9.0249 0.000112175V18.9997Z"
+				fill="currentColor"
+			/>
+			<path
+				d="M25.8311 3.99269H28.2273L30.6866 12.2324L33.1459 3.99269H35.2268L37.581 12.2324L40.1243 3.99269H42.4365L38.8632 14.7547H36.4249L34.1548 7.4399L31.8006 14.7547L29.3413 14.7757L25.8311 3.99269Z"
+				fill="currentColor"
+			/>
+			<path
+				d="M41.8732 9.39471C41.8732 8.28768 42.0904 7.32078 42.5248 6.49402C42.9733 5.65323 43.5898 5.00863 44.3746 4.56022C45.1733 4.09779 46.0842 3.86657 47.1071 3.86657C48.1441 3.86657 49.0549 4.07677 49.8396 4.49716C50.6384 4.91755 51.262 5.5131 51.7104 6.28382C52.1728 7.05454 52.411 7.95838 52.425 8.99534C52.425 9.2756 52.404 9.56287 52.362 9.85714H44.2484V9.98326C44.3045 10.9221 44.5988 11.6648 45.1313 12.2113C45.6638 12.7578 46.3714 13.0311 47.2542 13.0311C47.9549 13.0311 48.5434 12.8699 49.0199 12.5476C49.4963 12.2113 49.8116 11.7419 49.9658 11.1393H52.2359C52.0397 12.2324 51.5072 13.1292 50.6384 13.8298C49.7836 14.5305 48.7116 14.8808 47.4224 14.8808C46.3014 14.8808 45.3204 14.6566 44.4797 14.2082C43.6529 13.7458 43.0083 13.1012 42.5459 12.2744C42.0974 11.4476 41.8732 10.4877 41.8732 9.39471ZM50.1129 8.1966C50.0148 7.41187 49.6995 6.8023 49.167 6.3679C48.6485 5.91948 47.9899 5.69527 47.1912 5.69527C46.4485 5.69527 45.8039 5.92649 45.2574 6.38892C44.7249 6.83733 44.4166 7.4399 44.3325 8.1966H50.1129Z"
+				fill="currentColor"
+			/>
+			<path
+				d="M58.9687 3.86657C59.9496 3.86657 60.8254 4.09078 61.5961 4.5392C62.3669 4.9736 62.9694 5.60419 63.4038 6.43096C63.8382 7.25773 64.0554 8.23864 64.0554 9.37369C64.0554 10.4527 63.8382 11.4126 63.4038 12.2534C62.9694 13.0801 62.3669 13.7247 61.5961 14.1872C60.8254 14.6496 59.9496 14.8808 58.9687 14.8808C58.17 14.8808 57.4763 14.7337 56.8878 14.4394C56.2992 14.1311 55.8228 13.7177 55.4584 13.1993L55.1852 14.7547H53.2093V0.0410156H55.4794V5.59018C56.3342 4.44111 57.4973 3.86657 58.9687 3.86657ZM58.5903 12.968C59.5292 12.968 60.2859 12.6387 60.8605 11.9801C61.449 11.3075 61.7433 10.4387 61.7433 9.37369C61.7433 8.32272 61.449 7.46792 60.8605 6.80931C60.2859 6.13668 59.5292 5.80037 58.5903 5.80037C57.6515 5.80037 56.8948 6.12968 56.3202 6.78829C55.7457 7.4469 55.4584 8.3017 55.4584 9.35267C55.4584 10.4177 55.7457 11.2865 56.3202 11.9591C56.8948 12.6317 57.6515 12.968 58.5903 12.968Z"
+				fill="currentColor"
+			/>
+			<path
+				d="M75.123 12.7789V14.7547H73.9249C73.2243 14.7547 72.7198 14.6076 72.4115 14.3133C72.1032 14.019 71.9491 13.5916 71.9491 13.0311C71.1363 14.2642 69.9522 14.8808 68.3968 14.8808C67.1917 14.8808 66.2248 14.6006 65.4961 14.04C64.7674 13.4795 64.4031 12.7088 64.4031 11.7279C64.4031 10.6209 64.7954 9.77306 65.5802 9.18452C66.3649 8.58196 67.5069 8.28068 69.0063 8.28068H71.7179V7.62907C71.7179 7.02651 71.5077 6.55707 71.0873 6.22076C70.6669 5.87044 70.0853 5.69527 69.3427 5.69527C68.684 5.69527 68.1375 5.84241 67.7031 6.13668C67.2827 6.41694 67.0305 6.7953 66.9464 7.27174H64.7184C64.8305 6.19274 65.3069 5.35896 66.1477 4.77041C66.9885 4.16785 68.0885 3.86657 69.4478 3.86657C70.8911 3.86657 72.0051 4.20289 72.7899 4.87551C73.5746 5.54814 73.967 6.51504 73.967 7.77621V12.0222C73.967 12.5266 74.2052 12.7789 74.6816 12.7789H75.123ZM71.7179 9.96224H68.9012C68.2006 9.96224 67.6611 10.1024 67.2827 10.3826C66.9044 10.6489 66.7152 11.0483 66.7152 11.5807C66.7152 12.0432 66.8904 12.4145 67.2407 12.6948C67.605 12.975 68.0955 13.1152 68.7121 13.1152C69.6509 13.1152 70.3796 12.8629 70.8981 12.3585C71.4306 11.854 71.7039 11.1814 71.7179 10.3406V9.96224Z"
+				fill="currentColor"
+			/>
+			<path
+				d="M75.3086 0.0410156H77.5787V14.7547H75.3086V0.0410156Z"
+				fill="currentColor"
+			/>
+			<path
+				d="M78.753 0.0410156H81.0231V14.7547H78.753V0.0410156Z"
+				fill="currentColor"
+			/>
+			<path
+				d="M83.5427 3.99269L86.5485 12.2954L89.4702 3.99269H91.8874L87.0109 16.4363C86.7587 17.0809 86.5274 17.5713 86.3173 17.9076C86.1071 18.258 85.8478 18.5172 85.5395 18.6854C85.2312 18.8675 84.8179 18.9586 84.2994 18.9586H81.8611V16.9617H83.4586C83.893 16.9617 84.1943 16.8917 84.3624 16.7516C84.5306 16.6254 84.7058 16.3312 84.8879 15.8687L85.3293 14.8388L81.1254 3.99269H83.5427Z"
+				fill="currentColor"
+			/>
+		</svg>
+	);
+};
+
+export const NGNFlag = () => {
+	return (
+		<svg
+			width="25"
+			height="25"
+			viewBox="0 0 25 25"
+			fill="none"
+			xmlns="http://www.w3.org/2000/svg">
+			<g clip-path="url(#clip0_38_523)">
+				<path
+					d="M12.5 0.78125C6.02812 0.78125 0.78125 6.02812 0.78125 12.5C0.78125 18.9719 6.02812 24.2188 12.5 24.2188C18.9719 24.2188 24.2188 18.9719 24.2188 12.5C24.2188 6.02812 18.9719 0.78125 12.5 0.78125ZM8.65898 22.7395V2.26055C9.85508 1.81055 11.1488 1.5625 12.5 1.5625C13.8512 1.5625 15.1449 1.81055 16.341 2.26055V22.7395C15.1449 23.1895 13.8512 23.4375 12.5 23.4375C11.1488 23.4375 9.85508 23.1895 8.65898 22.7395Z"
+					fill="#0FA958"
+				/>
+			</g>
+			<defs>
+				<clipPath id="clip0_38_523">
+					<rect
+						width="25"
+						height="25"
+						rx="12.5"
+						fill="white"
+					/>
+				</clipPath>
+			</defs>
 		</svg>
 	);
 };
