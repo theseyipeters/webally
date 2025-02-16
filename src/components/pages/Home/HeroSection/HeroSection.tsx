@@ -41,7 +41,7 @@ export default function HeroSection() {
 							fz={{ base: 14, md: 16, xl: 16 }}
 							radius={50}
 							c={D_BLUE}>
-							Request a quote
+							Build something for me
 						</Button>
 						<Button
 							bg={GRAY}
