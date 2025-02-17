@@ -5,6 +5,7 @@ import Head from "next/head";
 import HelpingSMEs from "./HelpingSMEs/HelpingSMEs";
 import TestimonialsAndStats from "./TestimonialsAndStats/TestimonialsAndStats";
 import Tailored from "./Tailored/Tailored";
+import Footer from "@/components/common/Footer/Footer";
 
 export default function Home() {
 	return (
@@ -35,6 +36,7 @@ export default function Home() {
 				<HelpingSMEs />
 				<TestimonialsAndStats />
 				<Tailored />
+				<Footer />
 			</div>
 		</>
 	);
