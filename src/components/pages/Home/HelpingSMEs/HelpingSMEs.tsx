@@ -7,7 +7,7 @@ import { data } from "./data";
 export default function HelpingSMEs() {
 	return (
 		<Box
-			className="pt-[100px] pb-[380px] lg:pb-[480px] px-[15px] md:px-[30px] lg:px-[80px]"
+			className="pt-[50px] lg:pt-[100px] pb-[380px] lg:pb-[480px] px-[15px] md:px-[30px] lg:px-[80px]"
 			bg={"#000"}>
 			<Text c={WHITE}>• Software for SMEs</Text>
 

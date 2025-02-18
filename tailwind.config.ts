@@ -10,7 +10,7 @@ export default {
 		extend: {
 			colors: {
 				blue: {
-					1: "#0A1F44",
+					1: "#333F48",
 				},
 				white: {
 					1: "#F3F3F3",

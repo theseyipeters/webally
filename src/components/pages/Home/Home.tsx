@@ -6,6 +6,7 @@ import HelpingSMEs from "./HelpingSMEs/HelpingSMEs";
 import TestimonialsAndStats from "./TestimonialsAndStats/TestimonialsAndStats";
 import Tailored from "./Tailored/Tailored";
 import Footer from "@/components/common/Footer/Footer";
+import Script from "next/script";
 
 export default function Home() {
 	return (
@@ -24,6 +25,9 @@ export default function Home() {
 					href="/favicon.svg"
 				/>
 			</Head>
+			<Script
+				src="//code.jivosite.com/widget/PeBIhfOe4u"
+				async></Script>
 			<div className="bg-blue-1 relative">
 				<div className="fixed w-full top-0 left-0 z-20">
 					<Navbar />

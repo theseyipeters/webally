@@ -3,7 +3,6 @@ import {
 	Box,
 	Button,
 	Card,
-	Flex,
 	Image,
 	SimpleGrid,
 	Stack,
@@ -11,12 +10,14 @@ import {
 } from "@mantine/core";
 import { data, logos } from "./data";
 import { RadialSvg } from "@/components/svgs/svg";
+import { useMediaQuery } from "@mantine/hooks";
 
 export default function Tailored() {
+	const isMobile = useMediaQuery(`(max-width: 768px)`);
 	return (
 		<Box bg={D_BLUE}>
 			<Box
-				className="pt-[100px] pb-[80px] px-[15px] md:px-[30px] lg:px-[80px] rounded-bl-3xl rounded-br-3xl"
+				className="pt-[50px] lg:pt-[100px] pb-[60px] lg:pb-[80px] px-[15px] md:px-[30px] lg:px-[80px] lg:rounded-bl-3xl lg:rounded-br-3xl"
 				bg={"#F3F3F3"}>
 				<Stack
 					align="center"
@@ -29,8 +30,8 @@ export default function Tailored() {
 								src={logo}
 								alt=""
 								key={index}
-								h={80}
-								w={80}
+								h={isMobile ? 60 : 80}
+								w={isMobile ? 60 : 80}
 							/>
 						))}
 					</div>
@@ -88,8 +89,8 @@ export default function Tailored() {
 				</SimpleGrid>
 			</Box>
 
-			<Box className="relative overflow-hidden pt-[100px] pb-[80px] px-[15px] md:px-[30px] lg:px-[80px]">
-				<Flex justify={"space-between"}>
+			<Box className="relative overflow-hidden pt-[50px] lg:pt-[100px] pb-[60px] lg:pb-[80px] px-[15px] md:px-[30px] lg:px-[80px]">
+				<Box className="hidden lg:flex justify-between">
 					<Text c={WHITE}>• Let’s get started</Text>
 
 					<Box mt={50}>
@@ -125,7 +126,37 @@ export default function Tailored() {
 							Build something for me
 						</Button>
 					</Box>
-				</Flex>
+				</Box>
+				<Box className="flex flex-col lg:hidden justify-between">
+					<Text c={WHITE}>• Let’s get started</Text>
+
+					<div>
+						<Box mt={20}>
+							<Stack gap={10}>
+								<Text
+									c={WHITE}
+									fz={{ base: 32, md: 42, lg: 52 }}
+									fw={500}
+									lh={1}
+									className="">
+									Your Website Should Work As Hard As You!
+								</Text>
+							</Stack>
+						</Box>
+
+						<Box mt={20}>
+							<Button
+								bg={L_BLUE}
+								h={45}
+								fw={500}
+								fz={{ base: 14, md: 16, xl: 16 }}
+								radius={50}
+								c={D_BLUE}>
+								Build something for me
+							</Button>
+						</Box>
+					</div>
+				</Box>
 				<div className="absolute top-0 left-[-50px] w-full h-full z-[0]">
 					<RadialSvg />
 				</div>

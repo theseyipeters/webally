@@ -1,21 +1,26 @@
 import { WebAllyLogo } from "@/components/svgs/svg";
-import { Box, Stack, Text } from "@mantine/core";
-import { data, FooterItem } from "./data";
+import { Box, Stack, Text, UnstyledButton } from "@mantine/core";
+import { data, data2, FooterItem, socialMediaIcons } from "./data";
 import Link from "next/link";
 import { WHITE } from "@/components/config/constants";
+import { Icon } from "@iconify/react/dist/iconify.js";
 
 export default function Footer() {
+	const currentYear = new Date().getFullYear();
+
 	return (
 		<Box
-			className="py-[50px] lg:py-[100px] px-[15px] md:px-[30px] lg:px-[80px]"
+			className="pt-[50px] pb-[30px] lg:pt-[100px] lg:pb-[50px] px-[15px] md:px-[30px] lg:px-[80px]"
 			bg={"#000"}>
 			<Stack>
-				<div className="flex gap-4 items-start justify-between">
-					<div className="w-[80px] md:w-[100px] xl:w-[120px] text-white-1">
-						<WebAllyLogo />
+				<div className="w-full grid lg:flex gap-[50px] items-start justify-between">
+					<div>
+						<div className="w-[100px] md:w-[100px] lg:w-[120px] text-white-1">
+							<WebAllyLogo />
+						</div>
 					</div>
 
-					<div className="grid grid-cols-2 lg:grid-cols-4 items-start justify-between">
+					<div className="lg:w-full xl:w-[85%] grid grid-cols-2 lg:grid-cols-4 gap-y-10 gap-x-3 items-start justify-between">
 						{data.map((item, index) => (
 							<FooterBox
 								footerItem={item}
@@ -25,6 +30,45 @@ export default function Footer() {
 					</div>
 				</div>
 			</Stack>
+
+			<div className="border-t border-b border-white-1/10 mt-[70px] py-6 grid lg:flex gap-y-3 items-center justify-between">
+				<div className="grid md:flex gap-3 lg:gap-5 text-white-1">
+					<p className="text-white-1">
+						© {currentYear} WebAlly • All Rights Reserved
+					</p>
+
+					<p className="hidden md:block">|</p>
+
+					<div className="flex items-center gap-3">
+						{data2.map((item, index) => (
+							<UnstyledButton key={index}>{item.label}</UnstyledButton>
+						))}
+					</div>
+				</div>
+				<div className="flex items-center gap-2">
+					{socialMediaIcons.map((item, index) => (
+						<Link
+							key={index}
+							href={item.href}>
+							<Box
+								w={40}
+								h={40}
+								bg={"#161616"}
+								className="flex items-center justify-center rounded-lg">
+								<Icon
+									icon={item.icon}
+									color="white"
+									fontSize={20}
+								/>
+							</Box>
+						</Link>
+					))}
+				</div>
+			</div>
+
+			<small className="flex items-center justify-center mx-auto mt-[40px] text-white-1 text-center">
+				Built with ❤️ by SageTheDev
+			</small>
 		</Box>
 	);
 }

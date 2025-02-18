@@ -101,3 +101,36 @@ export const data: FooterItem[] = [
 		],
 	},
 ];
+
+export const data2: Item[] = [
+	{
+		label: "Terms",
+		href: "",
+	},
+	{
+		label: "Privacy policy",
+		href: "",
+	},
+	{
+		label: "Cookies",
+		href: "",
+	},
+];
+
+export const socialMediaIcons = [
+	{
+		name: "LinkedIn",
+		icon: "bi:linkedin",
+		href: "",
+	},
+	{
+		name: "Instagram",
+		icon: "bi:instagram",
+		href: "",
+	},
+	{
+		name: "X",
+		icon: "bi:twitter-x",
+		href: "",
+	},
+];

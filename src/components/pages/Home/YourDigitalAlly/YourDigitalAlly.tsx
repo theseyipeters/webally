@@ -46,7 +46,7 @@ export default function YourDigitalAlly() {
 	));
 	return (
 		<Box
-			className="pt-[100px] pb-[80px] px-[15px] md:px-[30px] lg:px-[80px]"
+			className="pt-[50px] lg:pt-[100px] pb-[60px] lg:pb-[80px] px-[15px] md:px-[30px] lg:px-[80px]"
 			bg={WHITE}>
 			<Text c={D_BLUE}>• Software for Venture Capitals</Text>
 			<Box className="w-full lg:w-[80%] mx-auto mt-[40px]">
@@ -120,7 +120,7 @@ export default function YourDigitalAlly() {
 															width="5"
 															height="100%"
 															rx="2.5"
-															fill="#0A1F44"
+															fill="#333F48"
 														/>
 													</svg>
 												</div>
@@ -197,7 +197,7 @@ function Cardd({ content, logo, name, img }: CardProps) {
 					<Flex
 						align={"center"}
 						justify={"center"}
-						w={300}>
+						w={{ base: "100%", md: 300 }}>
 						<Image
 							className="w-full"
 							src={img}
