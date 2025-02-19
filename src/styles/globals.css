@@ -76,8 +76,6 @@
 	font-style: normal;
 }
 body {
-	height: 100vh;
-	background-color: #000;
 	overscroll-behavior: none;
 }
 

@@ -16,13 +16,84 @@ export default function Home() {
 					Webally - Building high-performing sites that drive credibility,
 					clients, and results.
 				</title>
-				<desc>
-					Your website is your brand’s identity. At WebAlly, we build
-					high-performing sites that drive credibility, clients, and results.
-				</desc>
+				<meta
+					name="description"
+					content="Elevate your brand with WebAlly. We specialize in creating websites that are not only visually stunning but also optimized for performance, ensuring your business stands out online."
+				/>
 				<link
 					rel="icon"
 					href="/favicon.svg"
+				/>
+				<meta
+					name="theme-color"
+					content="#ffffff"
+				/>
+
+				{/* <!-- Open Graph Meta Tags --> */}
+				<meta
+					property="og:title"
+					content="Webally - Building high-performing sites that drive credibility, clients, and results."
+				/>
+				<meta
+					property="og:description"
+					content="Your website is your brand’s identity. At WebAlly, we build high-performing sites that drive credibility, clients, and results."
+				/>
+				<meta
+					property="og:image"
+					content="https://www.imghippo.com/i/TG7850Pg.jpg"
+				/>
+				<meta
+					property="og:url"
+					content="https://webally-mauve.vercel.app/"
+				/>
+				<meta
+					property="og:type"
+					content="website"
+				/>
+
+				{/* <!-- Twitter Card Meta Tags (optional, for Twitter) --> */}
+				<meta
+					name="twitter:card"
+					content="summary_large_image"
+				/>
+				<meta
+					name="twitter:title"
+					content="Webally - Building high-performing sites that drive credibility, clients, and results."
+				/>
+				<meta
+					name="twitter:description"
+					content="Elevate your brand with WebAlly. We specialize in creating websites that are not only visually stunning but also optimized for performance, ensuring your business stands out online."
+				/>
+				<meta
+					name="twitter:image"
+					content="https://www.imghippo.com/i/iBxj6659Qxk.jpg"
+				/>
+
+				{/* <!-- Additional Taglines as Meta Keywords (Optional) --> */}
+				<meta
+					name="keywords"
+					content="WebAlly, high-performing websites, credibility, client attraction, results-driven design, web development, brand identity"
+				/>
+
+				{/* meta taglines */}
+
+				<meta
+					name="tagline"
+					content="Your brand, amplified. WebAlly creates websites that drive credibility and growth."
+				/>
+
+				<meta
+					name="tagline"
+					content="WebAlly: Where design meets performance. Let’s build a website that works for you.."
+				/>
+
+				<meta
+					name="tagline"
+					content="Websites that captivate, convert, and grow. Powered by WebAlly."
+				/>
+				<meta
+					name="tagline"
+					content="WebAlly: Crafting high-performing websites for brands that mean business."
 				/>
 			</Head>
 			<Script

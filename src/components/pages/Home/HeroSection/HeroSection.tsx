@@ -11,7 +11,7 @@ export default function HeroSection() {
 				bg={D_BLUE}>
 				<Stack
 					align="center"
-					mt={80}>
+					mt={{ base: 40, md: 80 }}>
 					<Box className="z-10 flex flex-col items-center justify-center h-full">
 						{/* <label className="text-white-1 text-sm md:text-base xl:text-lg">
 							• We provide businesses with

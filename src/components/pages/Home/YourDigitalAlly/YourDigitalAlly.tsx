@@ -49,7 +49,7 @@ export default function YourDigitalAlly() {
 			className="pt-[50px] lg:pt-[100px] pb-[60px] lg:pb-[80px] px-[15px] md:px-[30px] lg:px-[80px]"
 			bg={WHITE}>
 			<Text c={D_BLUE}>• Software for Venture Capitals</Text>
-			<Box className="w-full lg:w-[80%] mx-auto mt-[40px]">
+			<Box className="w-full xl:w-[80%] mx-auto mt-[40px]">
 				<Text
 					c={D_BLUE}
 					fz={{ base: 24, md: 26, lg: 30 }}
@@ -63,15 +63,16 @@ export default function YourDigitalAlly() {
 						cols={{ base: 1, md: 2 }}
 						spacing={80}>
 						<Flex
-							w={{ base: "100%", lg: "90%" }}
-							align={"center"}>
+							w={{ base: "100%", sm: "60%", md: "100%", xl: "90%" }}
+							align={"center"}
+							mx={"auto"}>
 							<Paper
 								bg={L_BLUE}
 								radius={20}
 								p={{ base: 20, md: 30 }}
 								w={"100%"}
 								// h={"fit-content"}
-								h={600}>
+								h={{ base: "fit-content", lg: 600 }}>
 								<Card
 									radius={15}
 									h={"100%"}>
