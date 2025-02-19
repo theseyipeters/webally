@@ -26,7 +26,7 @@ export default function Home() {
 				/>
 				<meta
 					name="theme-color"
-					content="#ffffff"
+					content="#f3f3f3"
 				/>
 
 				{/* <!-- Open Graph Meta Tags --> */}
@@ -40,7 +40,7 @@ export default function Home() {
 				/>
 				<meta
 					property="og:image"
-					content="https://www.imghippo.com/i/TG7850Pg.jpg"
+					content="https://i.imghippo.com/files/TG7850Pg.jpg"
 				/>
 				<meta
 					property="og:url"
@@ -66,7 +66,7 @@ export default function Home() {
 				/>
 				<meta
 					name="twitter:image"
-					content="https://www.imghippo.com/i/iBxj6659Qxk.jpg"
+					content="https://i.imghippo.com/files/iBxj6659Qxk.jpg"
 				/>
 
 				{/* <!-- Additional Taglines as Meta Keywords (Optional) --> */}

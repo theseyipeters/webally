@@ -7,7 +7,7 @@ export default function HeroSection() {
 	return (
 		<div className="bg-white-1 w-full lg:h-[900px] px-0 md:px-[20px] lg:px-[40px]">
 			<Box
-				className="h-full w-full rounded-none md:rounded-3xl relative overflow-hidden"
+				className="h-full w-full rounded-none md:rounded-3xl relative overflow-hidden mt-[70px] lg:mt-[90px]"
 				bg={D_BLUE}>
 				<Stack
 					align="center"
