@@ -87,13 +87,13 @@ export default function Navbar() {
 						<Link
 							key={index}
 							href={link.href}
-							className="text-blue-1 text-sm md:text-base xl:text-lg hover:opacity-45 transition-all duration-300">
+							className="text-blue-1 text-lg xl:text-lg hover:opacity-45 transition-all duration-300">
 							{link.label}
 						</Link>
 					))}
 				</ul>
 
-				<div className="flex flex-col items-start gap-4 mt-6">
+				<div className="flex flex-col items-start gap-4 mt-8">
 					<div className="flex gap-1 items-end">
 						<div className="flex items-center">
 							<span>NG</span>
@@ -120,9 +120,9 @@ export default function Navbar() {
 					<Button
 						w={"100%"}
 						bg={D_BLUE}
-						h={45}
+						h={50}
 						fw={500}
-						fz={{ base: 14, md: 16, xl: 16 }}
+						fz={{ base: 16, md: 16, xl: 16 }}
 						radius={50}
 						c={WHITE}>
 						Request a quote

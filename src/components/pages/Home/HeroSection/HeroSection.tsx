@@ -11,7 +11,7 @@ export default function HeroSection() {
 				bg={D_BLUE}>
 				<Stack
 					align="center"
-					mt={{ base: 40, md: 80 }}>
+					mt={{ base: 70, md: 80 }}>
 					<Box className="z-10 flex flex-col items-center justify-center h-full">
 						{/* <label className="text-white-1 text-sm md:text-base xl:text-lg">
 							• We provide businesses with
@@ -21,7 +21,7 @@ export default function HeroSection() {
 							c={WHITE}
 							lh={1.2}
 							fw={500}
-							fz={{ base: 42, sm: 48, md: 52, lg: 62 }}>
+							fz={{ base: 40, sm: 48, md: 52, lg: 62 }}>
 							Your Website is <br /> NOT a placeholder
 						</Text>
 					</Box>
@@ -56,7 +56,7 @@ export default function HeroSection() {
 						</Button>
 					</Group>
 
-					<div className="z-10 mt-10">
+					<div className="z-10 mt-6 lg:mt-10">
 						<CrafterDashboard />
 					</div>
 				</Stack>
