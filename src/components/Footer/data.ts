@@ -1,0 +1,102 @@
+interface Item {
+	label: string;
+	href: string;
+}
+
+interface Office {
+	location: string;
+	address: string;
+}
+
+export interface FooterItem {
+	title: string;
+	itemList?: Item[];
+	offices?: Office[];
+}
+
+export const data: FooterItem[] = [
+	{
+		title: "Contact",
+		itemList: [
+			{
+				label: "13, Onikepo Akande Street, Lekki, Lagos, Nigeria",
+				href: "/about",
+			},
+		],
+	},
+	{
+		title: "Sitemap",
+		itemList: [
+			{
+				label: "Home",
+				href: "/about",
+			},
+			{
+				label: "Services",
+				href: "/about",
+			},
+			{
+				label: "Work",
+				href: "/about",
+			},
+			{
+				label: "About",
+				href: "/about",
+			},
+			{
+				label: "Contact",
+				href: "/about",
+			},
+		],
+	},
+	{
+		title: "Socials",
+		itemList: [
+			{
+				label: "Twitter",
+				href: "/about",
+			},
+			{
+				label: "LinkedIn",
+				href: "/about",
+			},
+			{
+				label: "Instagram",
+				href: "/about",
+			},
+		],
+	},
+];
+
+export const data2: Item[] = [
+	{
+		label: "Terms",
+		href: "",
+	},
+	{
+		label: "Privacy policy",
+		href: "",
+	},
+	{
+		label: "Cookies",
+		href: "",
+	},
+];
+
+export const socialMediaIcons = [
+	{
+		name: "LinkedIn",
+		icon: "bi:linkedin",
+		href: "",
+	},
+	{
+		name: "Instagram",
+		icon: "bi:instagram",
+		href: "",
+	},
+	{
+		name: "X",
+		icon: "bi:twitter-x",
+		href: "",
+	},
+];
